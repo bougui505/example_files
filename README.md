@@ -1,4 +1,7 @@
 # List of example input files useful for testing scripts
+```
+$ tree
+
 .
 ├── generate_README.sh
 ├── MD_trajectories
@@ -8,3 +11,4 @@
 └── README.md
 
 2 directories, 4 files
+```
